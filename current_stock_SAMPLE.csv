@@ -1,0 +1,4 @@
+product_id,current_stock,safety_stock,note
+P0014,3000,0,SAMPLE DATA - invented for the demo. Replace with real stock.
+P0016,5500,0,SAMPLE DATA - invented for the demo. Replace with real stock.
+P0020,8500,0,SAMPLE DATA - invented for the demo. Replace with real stock.
