@@ -1,1 +1,9 @@
-streamlit pandas numpy requests python-dotenv altair matplotlib xgboost statsmodels
+streamlit
+pandas
+numpy 
+requests 
+python-dotenv 
+altair
+matplotlib 
+xgboost
+statsmodels
