@@ -1,0 +1,4 @@
+product_id,trend,zero_demand_pct,baseline_model,mae,wape
+P0016,Decreasing,0.0,4-week MA,999.297,21.893
+P0020,Decreasing,0.0,4-week MA,841.25,17.811
+P0014,Decreasing,0.0,4-week MA,707.266,15.331
